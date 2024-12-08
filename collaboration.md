@@ -6,14 +6,14 @@ Here’s the detailed breakdown of the **movie booking project** we’ll be work
 
 To make development smoother, I propose that we first collaborate on Figma to create basic designs for these pages. These designs don’t need to be perfect—they just need to give us a clear idea of layouts and workflows. This will help us during the coding phase and ensure we stay on the same page.  
 
-Additionally, learning Figma as a team can be a valuable skill for future jobs or projects, especially for understanding UI/UX workflows.   
+Additionally, learning Figma as a team can be a valuable skill for future jobs or projects, especially for understanding UI/UX workflows.
 
 ### **Movie Booking Project Overview**
 
 We are building a **movie booking system** with separate user interfaces for regular users and theatre admins. Below is the proposed structure for both UIs, including necessary pages and components.
 
 #### **User UI**
-1. **Home Page (Index Page)**  
+1. **Home Page (Index Page)**
    - Displays a welcome message and available movies as tiles or cards.  
    - Buttons for **Sign Up** and **Login** if the user isn’t logged in.  
 
@@ -48,7 +48,7 @@ We are building a **movie booking system** with separate user interfaces for reg
 
 
 #### **Admin UI**
-1. **Admin Login Page**  
+1. **Admin Login Page**
    - Login form for theatre admins with OTP verification.  
 
 2. **Sales Dashboard**  
@@ -72,7 +72,7 @@ We are building a **movie booking system** with separate user interfaces for reg
 
 
 ### **Suggestions for Additions**
-- **Error Handling Pages**  
+- **Error Handling Pages**
    - Example: "Page Not Found" for undefined routes.  
    - User-friendly error messages for login/signup issues.  
 
