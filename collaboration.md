@@ -81,3 +81,6 @@ We are building a **movie booking system** with separate user interfaces for reg
 
 - **Dark Mode (Optional)**  
    - Include a toggle for light and dark themes for better user experience.
+
+
+   
